@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Qurilishda AT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Qurilishda AT</string>
+    <string name="nav_header_subtitle">Qurilishda axborot texnologiyalari</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Dastur haqida</string>
+
+    <string name="menu_home">Asosiy</string>
+    <string name="menu_gallery">Test</string>
+    <string name="menu_slideshow">Natijalar</string>
+    <string-array name="select_options">
+        <item>Variant 1</item>
+        <item>Variant 2</item>
+        <item>Variant 3</item>
+        <item>Variant 4</item>
+        <item>Variant 5</item>
+        <item>Variant 6</item>
+    </string-array>
+</resources>
